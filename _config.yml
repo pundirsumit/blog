@@ -1,7 +1,7 @@
 title: Sumit's Blog 
 description: "Just another guy on the Internet"
 author:
-  name: "pundirsumit"
+  name: "Sumit Pundir"
   email: "pundirsumit11@gmail.com"
   url: 
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "pundirsumit"
+owner : "Sumit Pundir"
 year : "2019"
